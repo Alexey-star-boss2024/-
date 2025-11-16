@@ -8,7 +8,7 @@
     <th height=30><img style="vertical-align:middle" img src = https://static.tildacdn.com/tild3736-6663-4331-b065-623334663336/SkillFactory.svg height=20></th>
   </tr>
 </table>
-
+ 
 ## Оглавление
 [1. Описание проекта](#Описание-проекта)
 
