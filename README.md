@@ -20,7 +20,7 @@
 
 [5. Результаты](#Результаты)
 
-  > Перейти прямо к [презентации решения кейса](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-6/project/Project-6.ipynb)
+  > Перейти прямо к [презентации решения кейса](https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb)
 
 [6. Выводы](#Выводы)  
 
@@ -188,7 +188,7 @@
 
 ### Результаты:
 
-Проект c корректным выполнением кейса ["Задача кластеризации"](https://github.com/yaroslav-vorobyov/SF_DST/blob/main/PROJECT-6/project/Project-6.ipynb).
+Проект c корректным выполнением кейса ["Задача кластеризации"](https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb).
 
 <br>
 
