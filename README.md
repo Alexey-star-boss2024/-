@@ -24,8 +24,6 @@
 
 [6. Выводы](#Выводы)  
 
-[7. Фидбэк от ментора](#Фидбэк-от-ментора)
-
 <br>
 
 <center> <img src=https://salesupnow.ru/storage/app/media/pipeople.png align="right" width="300"/> </center>
