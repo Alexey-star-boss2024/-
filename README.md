@@ -184,6 +184,6 @@
 
 <br>
 
-:arrow_up:[https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb](#Оглавление)
+:arrow_up:[Оглавление](#Оглавление)
 
 <br>
