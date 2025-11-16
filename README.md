@@ -109,11 +109,11 @@
 
 **Что на практике:**
 -   Учусь писать отличный код на Python;
--   Учусь строить оптимальные модели "декомпозиция методом главных компонент" PCA, "мягкой" EM-кластеризации GaussianMixture, "жёсткой" Kmeans-кластеризации Kmeans, агломеративной кластеризации AgglomerativeClustering, поиск оптимальных гиперпараметров для "дерева решений" GridSearchCV, ансамблирование - "случайный лес" RandomForestClassifier, градиентный бустинг над деревьями решений GradientBoostingClassifier, а также конвейерная обработка Pipeline;
+-   Учусь строить оптимальные модели "декомпозиция методом главных компонент" PCA, "мягкой" EM-кластеризации GaussianMixture, "жёсткой" Kmeans-кластеризации Kmeans, агломеративной кластеризации AgglomerativeClustering;
 -   Учусь сравнивать модели с точки зрения метрик, параметров;
 -   Учусь следить за оптимизацией метрик модели;
 -   Учусь следить за оптимизацией модели;
--   Учусь эффективно работать с IDE VSCode;
+-   Учусь эффективно работать с Colaboratory;
 -   Повышаю квалификацию по методам преобразования и очистки данных; 
 -   Повышаю квалификацию с GitHub.
 
@@ -201,7 +201,7 @@
 
 Для решения задачи кластеризации в данном кейсе **отлично себя показали модели**:
 
-* <font color=LightSeaGreen>**&check;**</font> **KMeans-алгоритм**
+* <font color=LightSeaGreen>**&check;**</font> ** KMeans-алгоритм**
 * <font color=LightSeaGreen>**&check;**</font> ** EM-алгоритм**
 * <font color=LightSeaGreen>**&check;**</font> ** AgglomearariveClustering**
 <br>
@@ -209,6 +209,6 @@
 
 <br>
 
-:arrow_up:[к оглавлению](https://github.com/yaroslav-vorobyov/SF_DST/tree/main/PROJECT-6#Оглавление)
+:arrow_up:https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb[к оглавлению](#Оглавление)
 
 <br>
