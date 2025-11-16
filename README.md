@@ -146,31 +146,6 @@
 
 <br>
 
-### Требования для работы
-*   Основой интерпретатор - Python 3.10 (у меня взят из Windows App Store для максимальной бесшовной интеграции с VSCode);
-*   Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt);
-*   Установка всех недостающих дополнительных компонент:
-
-            pip install -r requirements.txt
-
-*   В проекте используется:
-    
-    *   scikit-learn:
-            
-            pip install -U scikit-learn
-    
-    Документация по использованию - [Guide scikit-learn](https://scikit-learn.org/stable/user_guide.html)
-
-    *   gdown:
-
-            pip install -U gdown
-
-    Документация по использованию - [gdown](https://github.com/wkentaro/gdown)
-
-:arrow_up:[к оглавлению](#Оглавление)
-
-<br>
-
 ### Этапы работы над проектом
 - Ознакомление с описанием задачи;
 - Знакомство с данными;
@@ -209,6 +184,6 @@
 
 <br>
 
-:arrow_up:(https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb)[к оглавлению](#Оглавление)
+:arrow_up:(https://github.com/Alexey-star-boss2024/-/blob/master/PROJECT_6__Сегментация_клиентов_онлайн_магазина.ipynb)(#Оглавление)
 
 <br>
